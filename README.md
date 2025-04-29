@@ -1,4 +1,21 @@
 Swiggy seeks insights from its SQL dataset. Implement sophisticated SQL queries with intricate joins for in-depth analysis and strategic decision-making.<br/>
+FOCUS AREAS:<br/>
+
+- Customer Behavior – segmentation, order patterns, and engagement strategies<br/>
+- Restaurant Performance – ratings, revenue impact, and visibility tactic<br/>
+- Delivery Operations – partner efficiency and optimization ideas<br/>
+- Geo Insights – location-based ordering trends in Delhi and Mumbai<br/>
+-Order Timeline Analysis – demand patterns over recent days<br/>
+
+ STRATEGIC RECOMMENDATIONS INCLUDED:<br/>
+
+-Personalized offers for inactive users<br/>
+-Loyalty programs for frequent customers<br/>
+-Highlighting top-rated restaurants<br/>
+-Peak-hour delivery optimizations<br/>
+
+This project strengthened my SQL skills, but more importantly, it trained me to translate data into business insights—a skill and data-driven decision-making roles.<br/>
+
 Questions:<br/>
 
 Display all customers who live in 'Delhi'.<br/>
